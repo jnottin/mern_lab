@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Harry Potter 1",
+        "author": "J. K. Rowling",
+        "image": "https://i.imgur.com/O0tSoQC.jpg",
+        "bookSummary": "The novels chronicle the lives of a young wizard, Harry Potter, and his friends .."
+    },
+    {
+        "title": "Percy Jackson & the Olympians: The Lightning Thief",
+        "author": "Chris Columbus",
+        "image": "https://i.imgur.com/Dp0pgUR.jpg",
+        "bookSummary": "In New York City, Zeus and Poseidon meet at the top of the Empire State Building, where Zeus reveals that his master lightning bolt has been stolen and accuses Poseidon's demigod son, Percy Jackson, of the theft."
+    },
+    {
+        "title": "The Black Widow",
+        "author": "Daniel Silva",
+        "image": "https://i.imgur.com/vOFL4Ie.jpg",
+        "bookSummary": "A network of terror. A web of deceit. A deadly game of vengeance. Legendary spy and art restorer Gabriel Allon is poised to become the chief of 'The Office' the intelligence agency of Israel"
+    },
+    {
+        "title": "The Walking Dead Part 1",
+        "author": "Robert Kirkman",
+        "image": "https://i.imgur.com/8qMngbN.jpg",
+        "bookSummary": "Rick Grimes, Sheriff of a small town in Kentucky awakes in a hospital. Comatose after being shot while on duty, Rick finds the world abandoned of all things living and is faced with walking undead, who attack him on sight."
+    },
+    {
+        "title": "Mistborn: The Final Empire",
+        "author": "Brandon Sanderson",
+        "image": "https://i.imgur.com/mUYUhre.jpg",
+        "bookSummary": "Mistborn: The Final Empire is set in an analog to the early 18th century, in the dystopian world of Scadrial, where ash constantly falls from the sky, all plants are brown, and supernatural mists cloud every night. One thousand years before the start of the novel, the prophesied Hero of Ages ascended to godhood at the Well of Ascension in order to repel the Deepness, a terror threatening the world whose true nature has been lost to time."
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.imgur.com/hGgozAH.jpg",
+        "bookSummary": "In the summer of 1922, Nick Carraway, a Yale graduate and veteran of the Great War from the Midwest—who serves as the novel's narrator—takes a job in New York as a bond salesman."
+    }
+]
