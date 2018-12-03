@@ -25,5 +25,19 @@ app.get('/api/books', (req, res) => {
         })
 })
 
+//New Book
+app.post('/bookList', (req, res) => {
+    console.log(req.body)
+    Book.create({
+        title: req.body.title,
+        author: req.body.author,
+        image: req.body.image,
+        bookSummary: req.body.bookSummary
+    }).then(book => {
+        res.send(book)
+    })
+})
+
+
 app.listen(3007, () => {
 })
